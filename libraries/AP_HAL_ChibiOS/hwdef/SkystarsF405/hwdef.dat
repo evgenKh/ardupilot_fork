@@ -145,7 +145,7 @@ define HAL_GPIO_B_LED_PIN 91
 
 # IO
 PC3  CAM_SW OUTPUT GPIO(82) LOW
-define RELAY2_PIN_DEFAULT 81
+#define RELAY2_PIN_DEFAULT 81
 
 # Dataflash setup
 #moved to SPIDEV section
